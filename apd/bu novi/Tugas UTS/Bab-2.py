@@ -1,5 +1,5 @@
 angka = 13579
-print("Kode rahasia hari ini >> ", angka)
+print("Kode rahasia hari ini >>", angka)
 
 if angka % 2 == 1:
     warna = "BIRU"
@@ -12,7 +12,7 @@ print(f"(Batman menekan tombol {warna})")
 print(f"(Laser mati, pintu baja terbuka) \n")
 
 list_barang = ["Lampu", "Kotak masuk", "Obor emas", "Peta kuno", "Gembok tua"]
-print("List barang = ", list_barang)
+print("List barang =", list_barang)
 
 barang_ambil = set()
 for i in list_barang:
