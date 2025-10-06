@@ -11,7 +11,7 @@ else:
 print(f"(Batman menekan tombol {warna})")
 print(f"(Laser mati, pintu baja terbuka) \n")
 
-list_barang = ("Lampu", "Kotak masuk", "Obor emas", "Peta kuno", "Gembok tua")
+list_barang = ["Lampu", "Kotak masuk", "Obor emas", "Peta kuno", "Gembok tua"]
 print("List barang = ", list_barang)
 
 barang_ambil = set()
@@ -21,4 +21,3 @@ for i in list_barang:
 
 print(f"(Batman mengambil = {barang_ambil})")
 print("(Lantai bergetar dan sebuah lubang tersembunyi terbuka)")
-      
