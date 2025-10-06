@@ -1,0 +1,122 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="P17OO7sM2hCWd8uU3Go_">
+    <mxGraphModel dx="1188" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#028090;fontColor=default;" edge="1" parent="1" source="PrpbmcChhpaGvvCtiKrn-1" target="PrpbmcChhpaGvvCtiKrn-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-1" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="30" width="99" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#028090;fontColor=default;" edge="1" parent="1" source="PrpbmcChhpaGvvCtiKrn-6" target="PrpbmcChhpaGvvCtiKrn-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-6" value="String user" style="shape=internalStorage;whiteSpace=wrap;html=1;dx=15;dy=15;rounded=1;arcSize=8;strokeWidth=2;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="119.5" y="120" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#028090;fontColor=default;" edge="1" parent="1" source="PrpbmcChhpaGvvCtiKrn-9" target="PrpbmcChhpaGvvCtiKrn-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-9" value="Integer pw, nilai, jenis&amp;nbsp;" style="shape=internalStorage;whiteSpace=wrap;html=1;dx=15;dy=15;rounded=1;arcSize=8;strokeWidth=2;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="119.5" y="240" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#028090;fontColor=default;" edge="1" parent="1" source="PrpbmcChhpaGvvCtiKrn-11" target="PrpbmcChhpaGvvCtiKrn-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-11" value="Float konversi, hasil" style="shape=internalStorage;whiteSpace=wrap;html=1;dx=15;dy=15;rounded=1;arcSize=8;strokeWidth=2;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="119.5" y="350" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" edge="1" parent="1" source="PrpbmcChhpaGvvCtiKrn-13" target="PrpbmcChhpaGvvCtiKrn-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-13" value="Output &quot;MASUKKAN USERNAME (mahdi) DAN PASSWORD (067)&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;arcSize=8;strokeWidth=2;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="-17.130000000000003" y="460" width="453.25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" edge="1" parent="1" source="PrpbmcChhpaGvvCtiKrn-15" target="PrpbmcChhpaGvvCtiKrn-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-15" value="Input user = &quot;Masukkan username Anda = &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;rounded=1;arcSize=8;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="102.8" y="580" width="213.39" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" edge="1" parent="1" source="PrpbmcChhpaGvvCtiKrn-26" target="PrpbmcChhpaGvvCtiKrn-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-26" value="Input pw = &quot;Masukkan&amp;nbsp; password Anda = &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;rounded=1;arcSize=8;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="680" width="257.2" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" edge="1" parent="1" source="PrpbmcChhpaGvvCtiKrn-29" target="PrpbmcChhpaGvvCtiKrn-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-48" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" vertex="1" connectable="0" parent="PrpbmcChhpaGvvCtiKrn-32">
+          <mxGeometry x="0.0111" y="-2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" edge="1" parent="1" source="PrpbmcChhpaGvvCtiKrn-29" target="PrpbmcChhpaGvvCtiKrn-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-44" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" vertex="1" connectable="0" parent="PrpbmcChhpaGvvCtiKrn-34">
+          <mxGeometry x="-0.1319" y="3" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-29" value="user == &quot;mahdi&quot; and pw == 67" style="rhombus;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;rounded=1;arcSize=8;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="113.8" y="780" width="191.4" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" edge="1" parent="1" source="PrpbmcChhpaGvvCtiKrn-31" target="PrpbmcChhpaGvvCtiKrn-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-31" value="Output&amp;nbsp;&quot;LOGIN BERHASIL&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;rounded=1;arcSize=8;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="148.6" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" edge="1" parent="1" source="PrpbmcChhpaGvvCtiKrn-33" target="PrpbmcChhpaGvvCtiKrn-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-45" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" vertex="1" connectable="0" parent="PrpbmcChhpaGvvCtiKrn-36">
+          <mxGeometry x="-0.0308" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-43" value="False" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" edge="1" parent="1" source="PrpbmcChhpaGvvCtiKrn-33" target="PrpbmcChhpaGvvCtiKrn-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-33" value="user == &quot;mahdi&quot; or pw == 67" style="rhombus;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;rounded=1;arcSize=8;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-157.60000000000002" y="780" width="191.4" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" edge="1" parent="1" source="PrpbmcChhpaGvvCtiKrn-35" target="PrpbmcChhpaGvvCtiKrn-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-47" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" vertex="1" connectable="0" parent="PrpbmcChhpaGvvCtiKrn-38">
+          <mxGeometry x="-0.3193" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" edge="1" parent="1" source="PrpbmcChhpaGvvCtiKrn-35" target="PrpbmcChhpaGvvCtiKrn-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-46" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#028090;fontColor=#E4FDE1;fillColor=#F45B69;" vertex="1" connectable="0" parent="PrpbmcChhpaGvvCtiKrn-41">
+          <mxGeometry x="-0.0169" y="3" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-35" value="user == &quot;mahdi&quot;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;rounded=1;arcSize=8;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-101.90000000000002" y="960" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-37" value="Output &quot;PASSWORD ANDA SALAH&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;rounded=1;arcSize=8;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-152.85" y="1100" width="181.9" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-40" value="Output&amp;nbsp;&quot;USERNAME ANDA SALAH&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;rounded=1;arcSize=8;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="970" width="228.1" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-42" value="Output&amp;nbsp;&quot;GAGAL LOGIN&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;rounded=1;arcSize=8;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-335.95" y="815" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PrpbmcChhpaGvvCtiKrn-49" value="Output&amp;nbsp;&quot;\nSELAMAT DATANG TUAN MAHDI, HARI INI MAU KONVERSI APA??\n(panjang[1], massa[2], suhu[3], waktu[4], atau mata uang[5])&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;rounded=1;arcSize=8;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-4.5" y="1170" width="426.2" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
