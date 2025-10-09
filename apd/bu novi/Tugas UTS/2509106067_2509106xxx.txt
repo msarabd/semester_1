@@ -1,0 +1,86 @@
+hari = 5
+bulan = 1
+tahun = 2006
+print("Angka pada kartu >>", hari, bulan, tahun)
+print("\n(Robin melakukan perhtungan) \n")
+
+kode_pintu = hari * 25 + bulan
+print(f"R : Kode pintu = {kode_pintu}.")
+print("(Batman akhirnya mengetahui tempat rahasia Riddler)")
+
+---------------------
+
+angka = 23579
+print("Kode rahasia hari ini >>", angka)
+print(f"\nB : Apakah {angka} adalah angka ganjil? (Y:BIRU, T:MERAH)")
+
+if angka % 2 == 1:
+    warna = "BIRU"
+    print(f"R : {angka} adalah bilangan ganjil, tekan tombol {warna}.")
+    print(f"(Batman menekan tombol {warna})")
+    print("(Laser mati, pintu baja kiri terbuka) \n")
+    list_barang = ["Lampu", "Kotak masuk", "Obor emas", "Peta kuno", "Gembok tua"]
+    print("List barang =", list_barang)
+
+    barang_ambil = set()
+    for a in list_barang:
+        if a.lower().count("o") >= 1 and a.lower().count("m") >= 1:
+            barang_ambil.add(a)
+
+    print(f"\n(Batman mengambil = {barang_ambil})")
+    print("(Lantai bergetar dan sebuah lubang tersembunyi terbuka)")
+
+else:
+    warna = "MERAH"
+    print(f"R : {angka} bukan bilangan ganjil, tekan tombol {warna}.")
+    print(f"(Batman menekan tombol {warna})")
+    print("(Laser mati, pintu baja kanan terbuka) \n")
+    print("(Batman menemukan Riddler)")
+
+----------------------
+
+tuple_angka = ((1, 5, 9), (2, 4, 8), (10, 20, 30), (4, 4, 4), (1, 2, 3))
+print("Tuple angka =", tuple_angka)
+
+for a in tuple_angka:
+    jumlah = sum(a)
+    if jumlah % 3 != 0:
+        print(f"jumlah = {jumlah} >> pada tuple ke {a} \n")
+        print(f"R : Tuple {a} tidak habis dibagi 3. \n")
+        kunci_tuple = a
+        print(f"B : Maka, kode mesin = {kunci_tuple}.")
+        break
+
+print("(Batman memasukkan kode, lalu pintu terbuka) \n")
+print("R : SELAMAT DATANG, DETEKTIF....")
+print("(Robin bergumam dengan nada mencekam) \n")
+print("R : AKU SEBENARNYA MENYEMBUNYIKAN BEBERAPA EASTER EGG SELAMA PENYELIDIKAN KITA, TERUTAMA UNTUK KODE ANGKA GANJIL SEBELUMNYA (SEHARUSNYA KODENYA 97352). \nR : AKU BOSAN HANYA MENJADI PEMBANTUMU. \nR : AKULAH.... THE NEW RIDDLER.")
+print("(Plot twist, ternyata Robin adalah The Riddler)\n")
+print("||GAME OVER||")
+
+-------------------------
+
+print("(Batman disuntikkan gas bius) \n")
+print("(Riddler bertanya sembari penghitung berhitung mundur dari 10 sampai 0 detik)")
+kata_batman = input("R : Kelemahanmu apa, Boss = ").lower()
+
+
+while kata_batman != "kelemahan":
+    print("\nR : Bohong, kamu harus memberitahu kelemahanmu, Boss.")
+    print("(Riddler menyuntikkan gas bius kembali, penghitung dimulai kembali dari angka 10) \n")
+    kata_batman = input("R : Kelemahanmu apa, Boss = ").lower()
+
+print("\n(Penghitung mundur menjadi 0 dan berhenti total) \n")
+print("R : Perulangannya berhenti(?) Kau menemukan syarat True yang membuat perulangan itu mencapai titik False.")
+print("(Batman pun terbebas dari ikatan)")
+
+-----------------------------
+
+kelemahan_batman = {"ketakutan_kehilangan", "ketergantungan_alfred", "rasa_bersalah_orang_tua"}
+print("Kelemahan Batman =", kelemahan_batman)
+
+simbol_burung = "lokasi_batcave_rahasia"
+
+print("\n(Riddler menambahkan kelemahan batman lagi)")
+kelemahan_batman.add(simbol_burung)
+print("Kelemahan Batman = ", kelemahan_batman)
