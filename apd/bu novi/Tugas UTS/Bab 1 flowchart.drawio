@@ -1,0 +1,119 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2" pages="2">
+  <diagram name="Page-1" id="DATJGDOHAzPe-4ygUwBv">
+    <mxGraphModel dx="1042" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wfDI8Txg5gfKHI1ZbuGP-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="wfDI8Txg5gfKHI1ZbuGP-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="70" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wfDI8Txg5gfKHI1ZbuGP-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wfDI8Txg5gfKHI1ZbuGP-4" target="wfDI8Txg5gfKHI1ZbuGP-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfDI8Txg5gfKHI1ZbuGP-4" value="hari = 5" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="375" y="220" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wfDI8Txg5gfKHI1ZbuGP-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wfDI8Txg5gfKHI1ZbuGP-5" target="wfDI8Txg5gfKHI1ZbuGP-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfDI8Txg5gfKHI1ZbuGP-5" value="bulan = 1" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="370" y="300" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wfDI8Txg5gfKHI1ZbuGP-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wfDI8Txg5gfKHI1ZbuGP-7" target="wfDI8Txg5gfKHI1ZbuGP-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfDI8Txg5gfKHI1ZbuGP-7" value="tahun = 2006" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="370" y="380" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wfDI8Txg5gfKHI1ZbuGP-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wfDI8Txg5gfKHI1ZbuGP-14" target="wfDI8Txg5gfKHI1ZbuGP-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfDI8Txg5gfKHI1ZbuGP-14" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;int(hari, bulan, tahun)" style="shape=internalStorage;whiteSpace=wrap;html=1;dx=15;dy=15;rounded=1;arcSize=8;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="355" y="110" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wfDI8Txg5gfKHI1ZbuGP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="wfDI8Txg5gfKHI1ZbuGP-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFxko251vchY6_zVM4sn-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wfDI8Txg5gfKHI1ZbuGP-17" target="nFxko251vchY6_zVM4sn-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfDI8Txg5gfKHI1ZbuGP-17" value="&quot;angka pada kartu&amp;gt;&amp;gt;&quot; &amp;amp; hari &amp;amp;&lt;div&gt;bulan &amp;amp; tahun&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="310" y="460" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wfDI8Txg5gfKHI1ZbuGP-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wfDI8Txg5gfKHI1ZbuGP-22" target="wfDI8Txg5gfKHI1ZbuGP-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfDI8Txg5gfKHI1ZbuGP-22" value="kode_pintu= hari * 25 + bulan" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="370" y="680" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wfDI8Txg5gfKHI1ZbuGP-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="wfDI8Txg5gfKHI1ZbuGP-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="820" />
+              <mxPoint x="470" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFxko251vchY6_zVM4sn-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wfDI8Txg5gfKHI1ZbuGP-23" target="nFxko251vchY6_zVM4sn-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfDI8Txg5gfKHI1ZbuGP-23" value="f&quot;R : Kode pintu = {kode_pintu}.&quot;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="350" y="770" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nFxko251vchY6_zVM4sn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="nFxko251vchY6_zVM4sn-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="639.8064516129032" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="640" />
+              <mxPoint x="540" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFxko251vchY6_zVM4sn-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nFxko251vchY6_zVM4sn-2" target="wfDI8Txg5gfKHI1ZbuGP-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nFxko251vchY6_zVM4sn-2" value="&quot;\n (Robin melakukan perhtungan) \n&quot;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="288" y="570" width="275" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nFxko251vchY6_zVM4sn-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="nFxko251vchY6_zVM4sn-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="919.5714285714284" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFxko251vchY6_zVM4sn-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nFxko251vchY6_zVM4sn-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nFxko251vchY6_zVM4sn-6" value="&quot;(Batman akhirnya mengetahui&lt;div&gt;&amp;nbsp;tempat rahasia Riddler)&quot;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="300" y="860" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HPdpXv_iXEqx7zHemJqo-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="375" y="10" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NlrKW7QW65_NcQ4iR616-1" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="375" y="950" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-kYCzoRNTwTfUXivGK_Q" name="Page-2">
+    <mxGraphModel dx="1042" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="4000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

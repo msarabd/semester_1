@@ -1,0 +1,130 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram id="ImOKji_TmcGWJVWSoVQK" name="Page-3">
+    <mxGraphModel dx="1042" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="4000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bd4jdTbieSy-U6nyhfym-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Corf1H8FeijZeIYyQc_r-4" target="bd4jdTbieSy-U6nyhfym-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Corf1H8FeijZeIYyQc_r-4" value="tuple_angka = ((1, 5, 9), (2, 4, 8), (10, 20, 30), (4, 4, 4), (1, 2, 3))" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="345" y="240" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bd4jdTbieSy-U6nyhfym-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="bd4jdTbieSy-U6nyhfym-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="382" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bd4jdTbieSy-U6nyhfym-1" target="rGHBsBaGlJzwSnwlolq--7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bd4jdTbieSy-U6nyhfym-1" value="tuple_angka" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="372" y="330" width="127" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bd4jdTbieSy-U6nyhfym-4" target="bd4jdTbieSy-U6nyhfym-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--38" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rGHBsBaGlJzwSnwlolq--37" vertex="1" connectable="0">
+          <mxGeometry x="-0.4598" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--47" value="False" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="bd4jdTbieSy-U6nyhfym-4" target="rGHBsBaGlJzwSnwlolq--46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bd4jdTbieSy-U6nyhfym-4" value="jumlah % 3 != 0" style="rhombus;whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="380" y="800" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bd4jdTbieSy-U6nyhfym-7" target="bd4jdTbieSy-U6nyhfym-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="bd4jdTbieSy-U6nyhfym-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="1025" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bd4jdTbieSy-U6nyhfym-7" value="&amp;nbsp; &amp;nbsp;&quot;jumlah = {jumlah} &amp;gt;&amp;gt; pada tuple ke {a} &quot;&lt;div&gt;&quot;R : Tuple {a} tidak habis dibagi 3.&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="330" y="970" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bd4jdTbieSy-U6nyhfym-11" target="rGHBsBaGlJzwSnwlolq--14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bd4jdTbieSy-U6nyhfym-11" value="&amp;nbsp;kunci_tuple = a" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="385.5" y="1060" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rGHBsBaGlJzwSnwlolq--1" target="rGHBsBaGlJzwSnwlolq--53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="385.5" y="10" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rGHBsBaGlJzwSnwlolq--7" target="rGHBsBaGlJzwSnwlolq--31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--7" value="i = 0" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="385.5" y="440" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rGHBsBaGlJzwSnwlolq--9" target="bd4jdTbieSy-U6nyhfym-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--9" value="jumlah = sum(a)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="385.5" y="660" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rGHBsBaGlJzwSnwlolq--14" target="rGHBsBaGlJzwSnwlolq--41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="rGHBsBaGlJzwSnwlolq--14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="1185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--14" value="&quot;B : Maka, kode mesin = {kunci_tuple}&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="320.5" y="1130" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rGHBsBaGlJzwSnwlolq--31" target="rGHBsBaGlJzwSnwlolq--9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--36" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rGHBsBaGlJzwSnwlolq--34" vertex="1" connectable="0">
+          <mxGeometry x="-0.5786" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--31" value="i &amp;lt; len tuple_angka" style="rhombus;whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="375.5" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rGHBsBaGlJzwSnwlolq--41" target="rGHBsBaGlJzwSnwlolq--49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--41" value="Break" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="375" y="1220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rGHBsBaGlJzwSnwlolq--46" target="rGHBsBaGlJzwSnwlolq--31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--46" value="i += 1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="120" y="660" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rGHBsBaGlJzwSnwlolq--49" target="rGHBsBaGlJzwSnwlolq--51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="rGHBsBaGlJzwSnwlolq--49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="1522" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--49" value="&quot;(Batman memasukkan kode, lalu pintu terbuka)&quot;&lt;div&gt;&lt;br&gt;&lt;div&gt;&quot;R : SELAMAT DATANG, DETEKTIF....&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;(Robin bergumam dengan nada mencekam)&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&quot;R : AKU SEBENARNYA MENYEMBUNYIKAN BEBERAPA EASTER EGG SELAMA PENYELIDIKAN KITA, TERUTAMA UNTUK KODE ANGKA GANJIL SEBELUMNYA (SEHARUSNYA KODENYA 97352). R : AKU BOSAN HANYA MENJADI PEMBANTUMU. R : AKULAH.... THE NEW RIDDLER.&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;(Plot twist, ternyata Robin adalah The Riddler)&quot;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;||GAME OVER||&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="180" y="1315" width="510" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--51" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="385" y="1580" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rGHBsBaGlJzwSnwlolq--53" target="Corf1H8FeijZeIYyQc_r-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rGHBsBaGlJzwSnwlolq--53" value="tuple(tuple_angka, kunci_tuple)&lt;div&gt;int(jumlah)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;dx=15;dy=15;rounded=1;arcSize=8;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="364.5" y="110" width="141" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
